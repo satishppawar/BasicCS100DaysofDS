@@ -1,2 +1,47 @@
-# BasicCS100DaysofDS
-DS &amp; ALGO from leetcode.com https://www.hackerrank.com/ and https://www.geeksforgeeks.org/
+# BasicCS-100DaysofDS
+
+This repository contains a structured **100-day Data Structures and Algorithms challenge** with one notebook per topic/problem.
+
+Each notebook includes:
+- Concept notes
+- Python example code
+- Java snippet
+- Mini-project idea
+- Practice checklist
+- Blog prompts
+
+## Learning Modules
+
+### 1) Introduction to Data Structures and Algorithms (Days 1-40)
+Path: `01-Introduction-to-Data-Structures-and-Algorithms`
+
+- `00-Program-Guide/00-roadmap-and-tracker.ipynb`
+- `01-Basics` (Basics, Variables, Data Types, DS, ADT, Algorithms)
+- `02-Algorithm-Analysis-and-Growth`
+- `03-Types-of-Analysis-and-Notation`
+- `04-Asymptotic-Notation-and-Complexities`
+- `05-Recurrence-and-Master-Theorem`
+- `templates` (daily problem + blog templates)
+
+### 2) Recursion and Backtracking (Days 41-94)
+Path: `02-Recursion-and-Backtracking`
+
+- `00-Program-Guide/00-recursion-backtracking-tracker.ipynb`
+- `01-Recursion-Foundations`
+- `02-Types-of-Recursion`
+- `03-Recursion-Practice-Problems`
+- `04-Backtracking-Foundations`
+- `05-Backtracking-Practice-Problems`
+- `templates` (daily reflection template)
+
+## Daily Workflow
+
+1. Open today's notebook by day number.
+2. Read concept notes and run the example code.
+3. Solve one problem and fill the TODO solution section.
+4. Push your solution to GitHub.
+5. Publish a short blog post using the template.
+
+## Reference
+
+- [DataStructureAndAlgorithms](https://github.com/satishppawar/DataStructureAndAlgorithms/tree/master)
