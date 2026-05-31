@@ -34,11 +34,32 @@ Path: `02-Recursion-and-Backtracking`
 - `05-Backtracking-Practice-Problems`
 - `templates` (daily reflection template)
 
+### 3) Arrays and Strings (Days 95-142)
+Path: `03-Arrays-and-Strings`
+
+- `00-Program-Guide/00-arrays-strings-tracker.ipynb`
+- `01-Arrays-Foundations`
+- `02-Arrays-Practice-Problems`
+- `03-Strings-Foundations`
+- `04-Strings-Practice-Problems`
+- `05-2D-Arrays-Foundations`
+- `06-2D-Arrays-Practice-Problems`
+- `templates`
+
+### 4) Book-Aligned DSA Roadmap (Days 143-275)
+Path: `04-Book-DSA-Roadmap`
+
+- `00-Program-Guide/00-book-roadmap-tracker.ipynb`
+- `01-Linked-Lists` to `24-Advanced-Heaps`
+- `25-Interview-Patterns-Arrays` to `31-Interview-Patterns-Advanced`
+- `32-Revision`
+- `templates`
+
 ## Daily Workflow
 
 1. Open today's notebook by day number.
 2. Read concept notes and run the example code.
-3. Solve one problem and fill the TODO solution section.
+3. Solve one problem and complete the practice solution + tests section.
 4. Push your solution to GitHub.
 5. Publish a short blog post using the template.
 
